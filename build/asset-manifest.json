@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/static/js/main.20d76df8.chunk.js",
+    "main.js.map": "/static/js/main.20d76df8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc844540.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc844540.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.ba56ce1c.chunk.js": "/static/js/2.ba56ce1c.chunk.js",
+    "static/js/2.ba56ce1c.chunk.js.map": "/static/js/2.ba56ce1c.chunk.js.map",
+    "static/js/3.f898cd52.chunk.js": "/static/js/3.f898cd52.chunk.js",
+    "static/js/3.f898cd52.chunk.js.map": "/static/js/3.f898cd52.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/js/2.ba56ce1c.chunk.js.LICENSE.txt": "/static/js/2.ba56ce1c.chunk.js.LICENSE.txt",
+    "static/media/Logo4.f6411978.png": "/static/media/Logo4.f6411978.png",
+    "static/media/cake1.1e58d310.png": "/static/media/cake1.1e58d310.png",
+    "static/media/dulce1.6ec9c126.png": "/static/media/dulce1.6ec9c126.png",
+    "static/media/dulce2.19bb4fdf.png": "/static/media/dulce2.19bb4fdf.png",
+    "static/media/dulce3.38527cf9.png": "/static/media/dulce3.38527cf9.png",
+    "static/media/dulce4.bce7dfd4.png": "/static/media/dulce4.bce7dfd4.png",
+    "static/media/dulce5.c3d40b67.png": "/static/media/dulce5.c3d40b67.png",
+    "static/media/dulce6.fc895b0b.png": "/static/media/dulce6.fc895b0b.png",
+    "static/media/fondo4.8b03f7b8.png": "/static/media/fondo4.8b03f7b8.png",
+    "static/media/portalhanzel.56456962.png": "/static/media/portalhanzel.56456962.png",
+    "static/media/portalraque.d6be79d9.png": "/static/media/portalraque.d6be79d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc844540.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.ba56ce1c.chunk.js",
+    "static/js/main.20d76df8.chunk.js"
+  ]
+}
